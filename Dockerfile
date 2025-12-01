@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/ubi:8.4-207
+FROM registry.access.redhat.com/ubi8/ubi: latest
 
 COPY entrypoint.sh /
 
